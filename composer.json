@@ -3,6 +3,9 @@
   "version": "1.0.0",
   "type": "ej-module",
   "extra": {
-    "boot": "registration.yml"
+    "boot": "registration.yml",
+    "branch-alias": {
+      "dev-master": "1.0.x-dev"
+    }
   }
 }
