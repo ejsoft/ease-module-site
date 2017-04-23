@@ -4,7 +4,7 @@
   "type": "ej-module",
   "autoload": {
     "psr-4": {
-      "ej\\Site": ""
+      "ej\\Site\\": ""
     }
   },
   "extra": {
