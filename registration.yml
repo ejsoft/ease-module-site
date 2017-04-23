@@ -1,0 +1,7 @@
+routes:
+   - {class: \ej\Site\rules\Page}
+modules:
+  - {id: site, class: ej\Site\Module}
+components:
+     errorHandler:
+          errorAction: site/page/error
