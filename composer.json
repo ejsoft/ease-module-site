@@ -1,7 +1,7 @@
 {
-  "name": "ejsoft/module-site",
+  "name": "ejsoft/ease-module-site",
   "version": "1.0.0",
-  "type": "ej-module",
+  "type": "ease-module",
   "autoload": {
     "psr-4": {
       "ej\\Site\\": ""
